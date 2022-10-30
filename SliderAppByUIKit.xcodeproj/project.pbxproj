@@ -11,6 +11,7 @@
 		CA401017290F16C000F7AC4C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA401016290F16C000F7AC4C /* ContentView.swift */; };
 		CA401019290F16C200F7AC4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA401018290F16C200F7AC4C /* Assets.xcassets */; };
 		CA40101C290F16C200F7AC4C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA40101B290F16C200F7AC4C /* Preview Assets.xcassets */; };
+		CA401025290F18C900F7AC4C /* SliderIntegrationUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA401024290F18C900F7AC4C /* SliderIntegrationUIKit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CA401016290F16C000F7AC4C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CA401018290F16C200F7AC4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA40101B290F16C200F7AC4C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CA401024290F18C900F7AC4C /* SliderIntegrationUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderIntegrationUIKit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CA401014290F16C000F7AC4C /* SliderAppByUIKitApp.swift */,
 				CA401016290F16C000F7AC4C /* ContentView.swift */,
+				CA401024290F18C900F7AC4C /* SliderIntegrationUIKit.swift */,
 				CA401018290F16C200F7AC4C /* Assets.xcassets */,
 				CA40101A290F16C200F7AC4C /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				CA401017290F16C000F7AC4C /* ContentView.swift in Sources */,
 				CA401015290F16C000F7AC4C /* SliderAppByUIKitApp.swift in Sources */,
+				CA401025290F18C900F7AC4C /* SliderIntegrationUIKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
