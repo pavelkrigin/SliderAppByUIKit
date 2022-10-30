@@ -20,7 +20,7 @@ struct ContentView: View {
 
             HStack {
                 Text("0")
-                SliderIntegrationUIKit
+                SliderIntegrationUIKit()
                 Text("100")
             }
             .padding(.bottom, 20)

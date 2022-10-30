@@ -7,7 +7,9 @@
 
 import SwiftUI
 
-struct SliderIntegrationUIKit: View {
+struct SliderIntegrationUIKit: UIViewRepresentable {
+    typealias UIViewType = <#type#>
+        
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
